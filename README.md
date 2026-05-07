@@ -1,2 +1,2 @@
-# Space-shutter-_pygame
+# Space-shutte
 Creating a game for first time using pygame 
